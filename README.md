@@ -43,6 +43,10 @@ An ongoing **front-end clone of the Airbnb platform**, built as part of my journ
 
 ---
 
+![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huomagift&show_icons=true&theme=radical)
+
+---
+
 ## Get in Touch 📬
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gift-amadi-05171a2b9/)
