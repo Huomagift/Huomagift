@@ -6,7 +6,7 @@ I'm a passionate **Front-End Developer** and **Electrical & Electronic Engineeri
 
 * 🌱 Currently learning: **Advanced Front-End Development with ALX**
 * 🔭 Working on: **An Airbnb Clone and Front-End Mini Projects**
-* 🌍 Languages: **JavaScript, HTML/CSS, Python (basic), English**
+* 🌍 Languages: **JavaScript, HTML/CSS, Python (basic),C++ (basic), C (basic), English**
 * 📫 How to reach me: **[huomagift@gmail.com](mailto:huomagift@gmail.com)**
 * ⚡ Fun fact: I was part of the **Top 5 team** at the 3MTT Rivers State Hackathon with the **TrackDem attendance system**!
 
@@ -17,9 +17,7 @@ I'm a passionate **Front-End Developer** and **Electrical & Electronic Engineeri
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
 ---
 
