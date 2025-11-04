@@ -1,71 +1,28 @@
-# Hi there, I'm Gift Amadi! 👋
+<h1 align="center">Hi 👋, I'm Gift Amadi</h1>
+<h3 align="center">I'm a Front-End Developer and Electrical & Electronic Engineering undergraduate passionate about creating responsive, user-focused web experiences that merge creativity with engineering precision. I’m a graduate of both the ALX Front-End Development Program and the 3MTT Software Development Program, where I built real-world projects, strengthened my problem-solving skills, and mastered scalable web application design. 💡 I love transforming ideas into intuitive, visually appealing, and high-performing web solutions.</h3>
 
-### 🚀 About Me
+- 🔭 I’m currently working on [Artza](artzaworld.com)
 
-I'm a **Front-End Developer** and **Electrical & Electronic Engineering undergraduate** passionate about creating **responsive, user-focused web experiences** that merge creativity with engineering precision.
+- 🌱 I’m currently learning **Next.js, Typescript, ReactNative**
 
-I’m a graduate of both the **ALX Front-End Development Program** and the **3MTT Software Development Program**, where I built real-world projects, strengthened my problem-solving skills, and mastered scalable web application design.
+- 💬 Ask me about **Website structure and architecture, JavaScript, HTML, CSS**
 
-💡 I love transforming ideas into intuitive, visually appealing, and high-performing web solutions.
+- 📫 How to reach me **huomagift@gmail.com**
 
----
+- ⚡ Fun fact **I watch a lot of movies**
 
-### 🧠 Currently
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/huomagift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huomagift" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huomagift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huomagift" height="30" width="40" /></a>
+</p>
 
-* 🔭 **Building:** Personal portfolio • Artza Platform • StuffSwap Web App
-* 💬 **Ask me about:** UI/UX implementation, website architecture, and frontend performance optimization
-* 🌍 **Languages:** JavaScript, HTML, CSS, Python (basic), C++ (basic), C (basic)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huomagift&show_icons=true&locale=en&layout=compact" alt="huomagift" /></p>
 
-### 🏆 Featured Projects
-
-#### 💬 **StuffSwap – Smart Swapping Platform**
-
-A community-based swapping platform that lets users exchange items seamlessly. Built with **HTML, CSS and JavaScript**, featuring real-time chat, filtering, and authentication. Ranked **9th in the Intercontinental CS Girlies Hackathon**.
-
-#### 🎨 **Artza – Digital Art & Décor Platform**
-
-A modern platform for discovering and shopping digital art, developed with **Next.js, TypeScript, and Tailwind CSS**. Focused on clean UI, accessibility, and immersive user experience.
-
-#### 🕹️ **TrackDem – Hackathon Project**
-
-A **biometric attendance system** built for the **3MTT Rivers State Hackathon**, ranked among the **Top 5 teams**. Features role-based access, real-time logging, and efficient attendance tracking.
-
-#### ✅ **Task Manager – Capstone Project**
-
-A dynamic task management web app built with **HTML, CSS, and JavaScript**, showcasing DOM manipulation, user input validation, and color-coded priorities.
-
----
-
-### 🛠️ Skills
-
-#### Frontend Development  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")  
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")  
-![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React Native")  
-![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg "TailwindCSS")  
-
-#### Tools & Workflow  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")  
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VSCode")  
-![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg "Canva")  
-![Notion](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg "Notion")
-
-**Soft Skills:** Communication • Collaboration • Adaptability • Problem Solving
-
----
-
-### 📫 Get in Touch
-
-💼 [LinkedIn](https://linkedin.com/in/giftamadi)
-🐦 [Twitter (X)](https://twitter.com/gifta_madi)
-📧 Email: **[huomagift@gmail.com](mailto:huomagift@gmail.com)**
-🌐 Portfolio: *Coming Soon!*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huomagift&show_icons=true&locale=en" alt="huomagift" /></p>
 
 ---
 
