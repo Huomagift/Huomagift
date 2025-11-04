@@ -1,68 +1,72 @@
-# Hi there, I'm **Gift Amadi**! 👋
+# Hi there, I'm Gift Amadi! 👋
 
-## About Me 🚀
+### 🚀 About Me
 
-I'm a passionate **Front-End Developer** and **Electrical & Electronic Engineering undergraduate** with a love for user-friendly and responsive web solutions. A graduate of the **3MTT Software Development Program**, I apply both engineering logic and creative thinking to build human-centered designs.
+I'm a **Front-End Developer** and **Electrical & Electronic Engineering undergraduate** passionate about creating **responsive, user-focused web experiences** that merge creativity with engineering precision.
 
-* 🌱 Currently learning: **Advanced Front-End Development with ALX**
-* 🔭 Working on: **An Airbnb Clone and Front-End Mini Projects**
-* 🌍 Languages: **JavaScript, HTML/CSS, Python (basic),C++ (basic), C (basic), English**
-* 📫 How to reach me: **[huomagift@gmail.com](mailto:huomagift@gmail.com)**
-* ⚡ Fun fact: I was part of the **Top 5 team** at the 3MTT Rivers State Hackathon with the **TrackDem attendance system**!
+I’m a graduate of both the **ALX Front-End Development Program** and the **3MTT Software Development Program**, where I built real-world projects, strengthened my problem-solving skills, and mastered scalable web application design.
+
+💡 I love transforming ideas into intuitive, visually appealing, and high-performing web solutions.
 
 ---
 
-## My Skills 🧠
+### 🧠 Currently
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
----
-
-## Featured Projects 💻
-
-### 🏆 [TrackDem – Hackathon Project](https://github.com/uabochi/BioAttendance-Frontend)
-
-A **biometric attendance management system** built for the **3MTT Rivers State Hackathon**, where it placed among the **Top 5 teams**. TrackDem allows efficient attendance tracking, user role access, and real-time logging. Built with **HTML, CSS, and JavaScript**, it reflects my ability to solve real-world problems through intuitive front-end design and collaboration.
+* 🔭 **Building:** Personal portfolio • Artza Platform • StuffSwap Web App
+* 💬 **Ask me about:** UI/UX implementation, website architecture, and frontend performance optimization
+* 🌍 **Languages:** JavaScript, HTML, CSS, Python (basic), C++ (basic), C (basic)
 
 ---
 
-### 📋 [Capstone Project – Task Manager](https://github.com/Huomagift/Capstone)
+### 🏆 Featured Projects
 
-This project was developed as part of my **3MTT Capstone**, featuring a dynamic task manager interface that allows users to create, sort, and track their daily activities. Built with **HTML, CSS, and JavaScript**, it highlights my understanding of DOM manipulation, color-coded priorities, and user-friendly form validation.
+#### 💬 **StuffSwap – Smart Swapping Platform**
+
+A community-based swapping platform that lets users exchange items seamlessly. Built with **HTML, CSS and JavaScript**, featuring real-time chat, filtering, and authentication. Ranked **9th in the Intercontinental CS Girlies Hackathon**.
+
+#### 🎨 **Artza – Digital Art & Décor Platform**
+
+A modern platform for discovering and shopping digital art, developed with **Next.js, TypeScript, and Tailwind CSS**. Focused on clean UI, accessibility, and immersive user experience.
+
+#### 🕹️ **TrackDem – Hackathon Project**
+
+A **biometric attendance system** built for the **3MTT Rivers State Hackathon**, ranked among the **Top 5 teams**. Features role-based access, real-time logging, and efficient attendance tracking.
+
+#### ✅ **Task Manager – Capstone Project**
+
+A dynamic task management web app built with **HTML, CSS, and JavaScript**, showcasing DOM manipulation, user input validation, and color-coded priorities.
 
 ---
 
-### 🏡 [Airbnb Clone – ALX Project](https://github.com/Huomagift/airbnb-clone-project)
+### 🛠️ Skills
 
-An ongoing **front-end clone of the Airbnb platform**, built as part of my journey through the **ALX Front-End Mastery** phase. It showcases responsive UI design, component structure, and my growing expertise in **React** and scalable layouts.
+#### Frontend Development  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")  
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")  
+![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React Native")  
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg "TailwindCSS")  
+
+#### Tools & Workflow  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")  
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "VSCode")  
+![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg "Canva")  
+![Notion](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg "Notion")
+
+**Soft Skills:** Communication • Collaboration • Adaptability • Problem Solving
 
 ---
 
-![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huomagift&show_icons=true&theme=radical)
+### 📫 Get in Touch
+
+💼 [LinkedIn](https://linkedin.com/in/giftamadi)
+🐦 [Twitter (X)](https://twitter.com/gifta_madi)
+📧 Email: **[huomagift@gmail.com](mailto:huomagift@gmail.com)**
+🌐 Portfolio: *Coming Soon!*
 
 ---
 
-## Get in Touch 📬
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/gift-amadi-05171a2b9/)
-* 🐦 [Twitter (X)](https://x.com/huomagift)
-* 📧 Email: **[huomagift@gmail.com](mailto:huomagift@gmail.com)**
-* 🌐 Portfolio website: *Coming soon!*
-
-<!--
-**Huomagift/Huomagift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ✨ “I don’t just build websites — I build resilient, adaptable, and human-centered experiences.”
